@@ -103,5 +103,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Your Name - [Your GitHub Profile](https://github.com/Ganesh-Thorat-01)
+- [Ganesh Thorat](https://github.com/Ganesh-Thorat-01)
 
